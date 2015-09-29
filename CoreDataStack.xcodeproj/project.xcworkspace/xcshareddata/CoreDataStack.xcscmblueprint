@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "43EF9E1A7B89B3D4F652626A4A54DCEEBAA1FCA4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "013A0136D028C6A4358F8946247983115D6CD51E" : 0,
+    "43EF9E1A7B89B3D4F652626A4A54DCEEBAA1FCA4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "22F8046C-B45B-4CE9-9FD5-3EFEF840754A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "013A0136D028C6A4358F8946247983115D6CD51E" : "Sheets\/",
+    "43EF9E1A7B89B3D4F652626A4A54DCEEBAA1FCA4" : "CoreDataStack\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CoreDataStack",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CoreDataStack.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bennibrightside\/Sheets.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "013A0136D028C6A4358F8946247983115D6CD51E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bennibrightside\/CoreDataStack.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "43EF9E1A7B89B3D4F652626A4A54DCEEBAA1FCA4"
+    }
+  ]
+}

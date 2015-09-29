@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  CoreDataStack
 //
-//  Created by Benni on 29.09.15.
-//  Copyright © 2015 Benni Brightside. All rights reserved.
+//  Created by Ben on 29.09.15.
+//  Copyright © 2015 Ben. All rights reserved.
 //
 
 import UIKit
@@ -40,7 +40,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 	func applicationWillTerminate(application: UIApplication) {
 		// Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 	}
-
-
 }
-
