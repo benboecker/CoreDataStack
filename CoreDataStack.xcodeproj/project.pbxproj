@@ -12,8 +12,8 @@
 		B3F938601BBA7E5C00C1AF0C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3F9385E1BBA7E5C00C1AF0C /* Main.storyboard */; };
 		B3F938621BBA7E5C00C1AF0C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3F938611BBA7E5C00C1AF0C /* Assets.xcassets */; };
 		B3F938651BBA7E5C00C1AF0C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3F938631BBA7E5C00C1AF0C /* LaunchScreen.storyboard */; };
-		B3F9386D1BBA7EAB00C1AF0C /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3F9386C1BBA7EAB00C1AF0C /* CoreDataStack.swift */; settings = {ASSET_TAGS = (); }; };
 		B3F938701BBA80D900C1AF0C /* Example.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B3F9386E1BBA80D900C1AF0C /* Example.xcdatamodeld */; settings = {ASSET_TAGS = (); }; };
+		B3F938761BBABAB800C1AF0C /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3F938751BBABAB800C1AF0C /* CoreDataStack.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,8 +24,8 @@
 		B3F938611BBA7E5C00C1AF0C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B3F938641BBA7E5C00C1AF0C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B3F938661BBA7E5C00C1AF0C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B3F9386C1BBA7EAB00C1AF0C /* CoreDataStack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CoreDataStack.swift; path = ../../Sheets/Sheets/CoreDataStack.swift; sourceTree = "<group>"; };
 		B3F9386F1BBA80D900C1AF0C /* Example.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Example.xcdatamodel; sourceTree = "<group>"; };
+		B3F938751BBABAB800C1AF0C /* CoreDataStack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,9 +58,9 @@
 		B3F938591BBA7E5C00C1AF0C /* CoreDataStack */ = {
 			isa = PBXGroup;
 			children = (
+				B3F938751BBABAB800C1AF0C /* CoreDataStack.swift */,
 				B3F9385A1BBA7E5C00C1AF0C /* AppDelegate.swift */,
 				B3F9385C1BBA7E5C00C1AF0C /* ViewController.swift */,
-				B3F9386C1BBA7EAB00C1AF0C /* CoreDataStack.swift */,
 				B3F9385E1BBA7E5C00C1AF0C /* Main.storyboard */,
 				B3F938611BBA7E5C00C1AF0C /* Assets.xcassets */,
 				B3F938631BBA7E5C00C1AF0C /* LaunchScreen.storyboard */,
@@ -141,9 +141,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B3F938701BBA80D900C1AF0C /* Example.xcdatamodeld in Sources */,
-				B3F9386D1BBA7EAB00C1AF0C /* CoreDataStack.swift in Sources */,
 				B3F9385D1BBA7E5C00C1AF0C /* ViewController.swift in Sources */,
 				B3F9385B1BBA7E5C00C1AF0C /* AppDelegate.swift in Sources */,
+				B3F938761BBABAB800C1AF0C /* CoreDataStack.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
